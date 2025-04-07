@@ -1,3 +1,17 @@
 body{
-    background-color: rgb(202, 169, 120);
+    background-color: rgb(241, 24, 24);
+
+    color: rgb(44, 190, 142);
+}
+
+
+#fold{
+    width: 40%;
+    display: block;
+    float: right;
+    
+}
+
+#fentkep{
+    width: 10%;
 }
