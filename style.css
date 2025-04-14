@@ -1,17 +1,18 @@
 body{
-    background-color: rgb(241, 24, 24);
-
-    color: rgb(44, 190, 142);
+    background-image: url(ht9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 0, 0);
 }
 
 
 #fold{
-    width: 40%;
+    width: 30%;
     display: block;
     float: right;
     
 }
 
-#fentkep{
-    width: 10%;
+#fentabra{
+    width: 80%;
 }
