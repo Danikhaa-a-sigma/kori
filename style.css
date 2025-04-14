@@ -20,3 +20,10 @@ body{
     float: right;
     
 }
+#foldgomb{
+    width: 120%;
+    margin-top: 60px;
+    border-radius: 10% 0% 10% 0%;
+    border: 5px solid black;
+
+}
