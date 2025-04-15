@@ -18,6 +18,8 @@ body{
     border-radius: 70%;
     display: block;
     float: right;
+    border: 5px solid black;
+
     
 }
 #foldgomb{
